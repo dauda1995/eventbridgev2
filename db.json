@@ -1,0 +1,118 @@
+{
+  "liveServer.settings.ignoreFiles": [
+    "**"
+  ],
+  "users": [
+    {
+      "email": "dauda1995@yahoo.co.uk",
+      "username": "dauda",
+      "firstname": "dauda",
+      "lastname": "dauda",
+      "password": "dauda",
+      "id": 1
+    },
+    {
+      "email": "dauda933@gmail.com",
+      "username": "charles",
+      "firstname": "dauda",
+      "lastname": "oziegbe",
+      "password": "Abuadschool1",
+      "id": 3
+    },
+    {
+      "email": "dauda.dauda@gmail.com",
+      "username": "dauda",
+      "firstname": "dauda",
+      "lastname": "dauda",
+      "password": "Abuadschool1",
+      "id": 4
+    },
+    {
+      "email": "dauda1995@yah",
+      "username": "asd",
+      "firstname": "asdlkd",
+      "lastname": "dflgkj",
+      "password": "aaa",
+      "id": 5
+    },
+    {
+      "email": "ddffdlk",
+      "username": "sfvlj",
+      "firstname": "d,m",
+      "lastname": "cfd,m",
+      "password": "sss",
+      "id": 6
+    }
+  ],
+  "events": [
+    {
+      "eventID": "",
+      "organiserID": "1",
+      "eventName": "meet&greet",
+      "organiserName": "dauda",
+      "location": "landmark center",
+      "startDate": "2022-10-13",
+      "startTime": "23:59",
+      "endDate": "2022-10-18",
+      "endtime": "",
+      "type": "",
+      "endTime": "22:03",
+      "eventType": "online",
+      "id": 1
+    },
+    {
+      "eventID": "",
+      "organiserID": "",
+      "eventName": "dauda",
+      "organiserName": "xaua",
+      "location": "scusc",
+      "startDate": "2022-10-19",
+      "startTime": "15:27",
+      "endDate": "2022-10-19",
+      "endtime": "",
+      "type": "",
+      "endTime": "20:25",
+      "eventType": "venue",
+      "id": 2
+    },
+    {
+      "eventID": "",
+      "organiserID": "1",
+      "eventName": "dauda",
+      "organiserName": "dauda",
+      "location": "dauda",
+      "startDate": "2022-11-03",
+      "startTime": "15:32",
+      "endDate": "2022-10-10",
+      "endtime": "",
+      "type": "",
+      "endTime": "15:34",
+      "eventType": "venue",
+      "id": 3
+    },
+    {
+      "eventID": "",
+      "organiserID": "1",
+      "eventName": "eko innovation event",
+      "organiserName": "lagos govt",
+      "location": "oriental hotel",
+      "startDate": "2022-10-06",
+      "startTime": "22:17",
+      "endDate": "2022-10-11",
+      "endtime": "",
+      "type": "",
+      "endTime": "23:24",
+      "eventType": "venue",
+      "id": 4
+    }
+  ],
+  "tickets": [
+    {
+      "ticketId": " ",
+      "eventId": "1",
+      "customerId": "1",
+      "dateCreated": "Sat Oct 08 2022 21:52:51 GMT+0100 (West Africa Standard Time)",
+      "id": 1
+    }
+  ]
+}
