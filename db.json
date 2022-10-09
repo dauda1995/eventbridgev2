@@ -104,6 +104,42 @@
       "endTime": "23:24",
       "eventType": "venue",
       "id": 4
+    },
+    {
+      "eventID": "",
+      "organiserID": "",
+      "eventName": "meet and greet tech connect 2.0",
+      "organiserName": "interswitch group",
+      "location": "Eko atlantic hotel and suites",
+      "startDate": "2022-10-12",
+      "startTime": "23:04",
+      "endDate": "2022-10-12",
+      "endtime": "",
+      "type": "",
+      "endTime": "14:04",
+      "eventType": "online",
+      "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+      "cost": "65.00",
+      "imgUrl": "C:\\fakepath\\Annotation 2022-08-19 101333.png",
+      "id": 5
+    },
+    {
+      "eventID": "",
+      "organiserID": "1",
+      "eventName": "dlkfdds",
+      "organiserName": "df,.fds",
+      "location": ";,.fsad;l",
+      "startDate": "2022-10-26",
+      "startTime": "20:47",
+      "endDate": "2022-10-19",
+      "endtime": "",
+      "type": "",
+      "endTime": "20:48",
+      "eventType": "future",
+      "summary": "dsf.,vsd.,f",
+      "cost": "dsf.,f",
+      "imgUrl": "C:\\fakepath\\4.png",
+      "id": 6
     }
   ],
   "tickets": [
